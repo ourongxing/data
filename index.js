@@ -5,4 +5,4 @@
 
 // 获取当前时间戳
 const getTimeStamp = () => Math.floor(Date.now() / 1000);
-console.log(Date.now())
+console.log(getTimeStamp())
