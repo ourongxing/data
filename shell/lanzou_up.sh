@@ -15,9 +15,9 @@ export PATH="/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin:
 # 使用：推荐 alias lanzou='bash ~/Desktop/lanzou_up.sh 文件夹id'
 # --------------------------------------------------------------
 
-USERNAME="13290031542" # 蓝奏云用户名
-COOKIE_PHPDISK_INFO="BDFfbQNhVWwCOFA3CGVWBQZiUlkJYQZiDz4AaQI0VGZXYAc0BWICOg8%2FDldbZQM7AmAHMg5uUGNQagdlDzABZwRhX2wDaVVgAjdQOAg0VjUGYFJkCWYGMA8%2FAGUCPVRnVzIHNgUxAjYPOQ5oWwgDaAJhBzcOblA3UGMHZA84ATYENF9v" # 替换 XXX 为 Cookie 中 phpdisk_info 的值
-COOKIE_YLOGIN="1005877" # 替换 XXX 为 Cookie 中 ylogin 的值
+USERNAME="xxx" # 蓝奏云用户名
+COOKIE_PHPDISK_INFO="xxx" # 替换 XXX 为 Cookie 中 phpdisk_info 的值
+COOKIE_YLOGIN="xxx" # 替换 XXX 为 Cookie 中 ylogin 的值
 
 UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
 HEADER_CHECK_LOGIN="User-Agent: ${UA}
